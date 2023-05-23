@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm Yash Rai
 
-<!--
-**Yashraiii/Yashraiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobbies:
+Coding 👨‍💻
 
-Here are some ideas to get you started:
+Contributing to open source ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reading & Writing📚
+
+Designing
+
+🌱 I’m wearing four hats hats as a Full Stack Developer, Competitive programmer, UI/UX Designer & Machine Learning Enthusiast.
+
+⚡ Fun fact :Can code for a whole night and still crave for more in morning.
